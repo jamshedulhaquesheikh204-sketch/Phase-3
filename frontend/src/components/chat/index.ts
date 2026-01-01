@@ -1,0 +1,4 @@
+// Chat components barrel export
+export { MessageBubble } from './MessageBubble';
+export { ChatInput } from './ChatInput';
+export { ConversationList } from './ConversationList';
